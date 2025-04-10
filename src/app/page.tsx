@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className="max-w-4xl mx-auto p-8">
-      <h1 className="text-4xl font-bold text-gray-900">
+      <h1 className="text-4xl font-bold text-orange-900">
         Convert WordPress to React Like a Pro
       </h1>
       <p className="mt-4 text-xl text-gray-600">
