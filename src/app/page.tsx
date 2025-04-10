@@ -5,7 +5,7 @@ export default function Home() {
         Convert WordPress to React Like a Pro
       </h1>
       <p className="mt-4 text-xl text-gray-600">
-        Free tools and tutorials for WP devs transitioning to Next.js
+        Free tools and tutorials for WP devs transitioning to React
       </p>
 
       <div className="mt-8 space-y-4">
