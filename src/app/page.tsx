@@ -17,22 +17,15 @@ export default function Home() {
         >
           [GitHub]
         </a>
+      </p>
+
+      <div className="mt-8 space-y-4">
         <Link
           href="/request"
           className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg"
         >
-          {" "}
-          Request{" "}
-        </Link>
-      </p>
-
-      <div className="mt-8 space-y-4">
-        <a
-          href="/converter"
-          className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg"
-        >
           Try Gutenberg → JSX Converter (Beta)
-        </a>
+        </Link>
         <p className="text-sm text-gray-500">
           Coming next: Headless WP Starter Kit
         </p>
