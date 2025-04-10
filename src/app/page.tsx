@@ -5,7 +5,16 @@ export default function Home() {
         Convert WordPress to React Like a Pro
       </h1>
       <p className="mt-4 text-xl text-gray-600">
-        Free tools and tutorials for WP devs transitioning to React
+        Free tools and tutorials for WP devs transitioning to React 🚀
+        Open-source tools for WordPress/React interoperability: - Gutenberg
+        block converter - Headless WP starters - Performance benchmarks
+        Contribute →
+        <a
+          href="http://github.com/webkamal/wptoreact/"
+          className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg"
+        >
+          [GitHub]
+        </a>
       </p>
 
       <div className="mt-8 space-y-4">
