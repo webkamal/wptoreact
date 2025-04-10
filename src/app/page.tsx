@@ -15,6 +15,12 @@ export default function Home() {
         >
           [GitHub]
         </a>
+        <a
+          href="http://wptoreact.com/request/"
+          className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg"
+        >
+          Request
+        </a>
       </p>
 
       <div className="mt-8 space-y-4">
