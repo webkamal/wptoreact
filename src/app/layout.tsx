@@ -7,7 +7,7 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "WPToReact - Professional Web Solutions",
+  title: "WPToReact - Professional WordPress to React Migration Solutions",
   description: "Transforming WordPress sites to modern React applications",
 };
 
